@@ -1,0 +1,7 @@
+Bem-vindo à nossa aula de teste. Este vídeo foi criado automaticamente com áudio e imagens.
+
+O segundo slide mostra como podemos dividir o roteiro em parágrafos. Cada parágrafo vira um slide com narração.
+
+No terceiro slide, você verá que o programa gera imagens simples com o texto do roteiro. Isso facilita a criação rápida de vídeo aulas.
+
+Por fim, este é apenas um exemplo de teste. Você pode substituir este texto pelo conteúdo real da sua aula.
