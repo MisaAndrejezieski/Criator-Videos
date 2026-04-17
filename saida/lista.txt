@@ -1,8 +1,0 @@
-file 'D:\Criator Videos\saida\slide1.png'
-file 'D:\Criator Videos\saida\slide1.mp3'
-file 'D:\Criator Videos\saida\slide2.png'
-file 'D:\Criator Videos\saida\slide2.mp3'
-file 'D:\Criator Videos\saida\slide3.png'
-file 'D:\Criator Videos\saida\slide3.mp3'
-file 'D:\Criator Videos\saida\slide4.png'
-file 'D:\Criator Videos\saida\slide4.mp3'
